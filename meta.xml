@@ -1,0 +1,6 @@
+<meta>
+	<info author="Stanley Sathler" description="Mini missions that offer some cool histories to the players" version="0.0.1"/>
+	<oop>true</oop>
+	<script src="src/mini-missions.server.lua" type="server"/>
+	<script src="src/mini-missions.client.lua" type="client"/>
+</meta>
