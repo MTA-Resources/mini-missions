@@ -1,0 +1,18 @@
+<mini-missions>
+	<mission>
+		<peds>
+			<ped>
+				<model>110</model>
+				<position>
+					<x>2578.43</x>
+					<y>-968.87</y>
+					<z>82</z>
+				</position>
+				<animation>
+					<block>beach</block>
+					<name>parksit_m_loop</name>
+				</animation>
+			</ped>
+		</peds>
+	</mission>
+</mini-missions>
